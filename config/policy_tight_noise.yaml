@@ -1,0 +1,21 @@
+mode: adaptive
+
+batch_window_min_s: 0.3
+batch_window_max_s: 1.2
+slot_interval_ms: 160
+micro_jitter_ms: 180
+desync_prob: 0.7
+
+padding_buckets: [256, 320, 384, 448, 512, 576, 640, 704, 768, 896, 1024]
+pad_noise_prob: 0.6
+pad_noise_frac: 0.12
+
+dummy_prob: 0.42
+dummy_target_diversity: 0.85
+dummy_jitter_s: [0.10, 0.45]
+
+relay_prob: 0.35
+relay_extra_latency: [0.06, 0.2]
+
+timestamp_window_min_s: 0.05
+timestamp_window_max_s: 5.0

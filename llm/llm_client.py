@@ -1,0 +1,7 @@
+def ask_llm(prompt, model="gpt-4o", max_tokens=800, temperature=0.0):
+    return '''{
+      "attacks": [
+        {"name":"stub_size_time","type":"size_time","params":{"timestamp_window_s":0.12,"size_tolerance_bytes":20},"notes":"demo tight time window"},
+        {"name":"stub_batch_anchor","type":"batch_anchor","params":{"recipient_batch_window_s":0.6,"match_threshold":0.65},"notes":"demo recipient anchor"}
+      ]
+    }'''

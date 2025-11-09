@@ -1,0 +1,18 @@
+{
+  "size_time_default": {
+    "linkability_pct": 94.949,
+    "num_guesses": 179
+  },
+  "batch_anchor_default": {
+    "linkability_pct": 85.859,
+    "num_guesses": 179
+  },
+  "freq_inter_default": {
+    "linkability_pct": 27.273,
+    "num_guesses": 179
+  },
+  "ml_attacker": {
+    "linkability_pct": 100.0,
+    "num_guesses": 99
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "input_count": 99,
+  "output_count": 137,
+  "dummy_count": 38,
+  "policy": {
+    "batch_window_min_s": 0.8,
+    "batch_window_max_s": 2.5,
+    "slot_interval_ms": 200,
+    "micro_jitter_ms": 80,
+    "padding_buckets": [
+      256,
+      384,
+      512,
+      768,
+      1024
+    ],
+    "dummy_prob": 0.35,
+    "relay_prob": 0.25,
+    "timestamp_window_min_s": 0.2,
+    "timestamp_window_max_s": 5.0,
+    "desync_prob": 0.6,
+    "pad_noise_frac": 0.1
+  }
+}

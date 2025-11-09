@@ -1,0 +1,36 @@
+{
+  "input_count": 99,
+  "output_count": 138,
+  "dummy_count": 39,
+  "policy": {
+    "batch_window_min_s": 0.5,
+    "batch_window_max_s": 2.2,
+    "slot_interval_ms": 220,
+    "micro_jitter_ms": 150,
+    "desync_prob": 0.6,
+    "padding_buckets": [
+      256,
+      320,
+      384,
+      448,
+      512,
+      640,
+      768,
+      896,
+      1024
+    ],
+    "pad_noise_prob": 0.5,
+    "pad_noise_frac": 0.1,
+    "dummy_prob": 0.35,
+    "dummy_target_diversity": 0.8,
+    "dummy_jitter_s": [
+      0.1,
+      0.4
+    ],
+    "relay_prob": 0.25,
+    "relay_extra_latency": [
+      0.05,
+      0.18
+    ]
+  }
+}

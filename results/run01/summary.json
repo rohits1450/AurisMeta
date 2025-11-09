@@ -1,0 +1,7 @@
+{
+  "num_users": 10,
+  "duration_s": 60,
+  "total_msgs": 99,
+  "avg_msgs_per_min": 10,
+  "seed": 1
+}

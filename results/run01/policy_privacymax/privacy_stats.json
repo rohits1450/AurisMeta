@@ -1,0 +1,39 @@
+{
+  "input_count": 99,
+  "output_count": 138,
+  "dummy_count": 39,
+  "policy": {
+    "slot_interval_ms": 350,
+    "max_per_sender_per_slot": 3,
+    "desync_prob": 0.6,
+    "padding_buckets": [
+      256,
+      320,
+      384,
+      448,
+      512,
+      576,
+      640,
+      704,
+      768,
+      832,
+      896,
+      960,
+      1024
+    ],
+    "pad_noise_prob": 0.8,
+    "pad_noise_frac": 0.1,
+    "dummy_prob": 0.35,
+    "dummy_target_diversity": 0.85,
+    "relay_prob": 0.25,
+    "relay_extra_latency": [
+      0.1,
+      0.8
+    ],
+    "timing_noise": 0.5,
+    "size_noise": 0.2,
+    "feature_noise_prob": 0.45,
+    "feature_noise_ts_s": 0.05,
+    "feature_noise_size_frac": 0.08
+  }
+}

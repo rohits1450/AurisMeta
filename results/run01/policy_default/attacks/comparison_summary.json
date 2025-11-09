@@ -1,0 +1,38 @@
+{
+  "baseline": {
+    "size_time_default": {
+      "linkability_pct": 100.0,
+      "num_guesses": 99
+    },
+    "batch_anchor_default": {
+      "linkability_pct": 92.929,
+      "num_guesses": 99
+    },
+    "freq_inter_default": {
+      "linkability_pct": 30.303,
+      "num_guesses": 99
+    },
+    "ml_attacker": {
+      "linkability_pct": 100.0,
+      "num_guesses": 99
+    }
+  },
+  "prototype": {
+    "size_time_default": {
+      "linkability_pct": 91.919,
+      "num_guesses": 137
+    },
+    "batch_anchor_default": {
+      "linkability_pct": 91.919,
+      "num_guesses": 137
+    },
+    "freq_inter_default": {
+      "linkability_pct": 29.293,
+      "num_guesses": 137
+    },
+    "ml_attacker": {
+      "linkability_pct": 100.0,
+      "num_guesses": 99
+    }
+  }
+}
