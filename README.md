@@ -1,6 +1,4 @@
-# 🛰 AurisMeta
-### Routing Metadata Security Layer
-
+# 🛰 AurisMeta - Routing Metadata Security Layer
 ---
 
 ## Introduction
@@ -71,5 +69,6 @@ Team Name: Zyphers
 ## Made at:
 💻 Hack36 at MNNIT Allahabad  
 🏆 Sponsored by Pathway
+
 
 
