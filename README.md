@@ -1,5 +1,5 @@
-# 🛰 Privacy-Enhanced Messaging Metadata Defense Prototype  
-### Reducing Routing Metadata Leakage in E2EE Messaging Systems  
+# 🛰 AurisMeta
+### Routing Metadata Security Layer
 
 ---
 
@@ -19,7 +19,7 @@ It combines simulation, AI-driven attacker evaluation, and real-time reasoning u
 ---
 
 ## Presentation Link
-📊 [Final Presentation Slides — PPT Link Here]( https://docs.google.com/presentation/d/1dj57DuT1AbdrfS3hUhMF7N0aH-jNyXa_/edit?usp=sharing&ouid=110708080494779471055&rtpof=true&sd=true )
+📊 [Final Presentation Slides — PPT Link Here]( [https://docs.google.com/presentation/d/1dj57DuT1AbdrfS3hUhMF7N0aH-jNyXa_/edit?usp=sharing&ouid=110708080494779471055&rtpof=true&sd=true](https://docs.google.com/presentation/d/1DA_hycMMCMNpPao0lFRxDEAniqjKxtZA/edit?usp=drive_link&ouid=109696431067809144100&rtpof=true&sd=true) )
 
 ---
 
@@ -71,4 +71,5 @@ Team Name: Zyphers
 ## Made at:
 💻 Hack36 at MNNIT Allahabad  
 🏆 Sponsored by Pathway
+
 
