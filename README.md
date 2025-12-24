@@ -40,7 +40,7 @@ It combines simulation, AI-driven attacker evaluation, and real-time reasoning u
 |-----------|-------------------------|
 | Language & Simulation | Python (asyncio, pandas, numpy) |
 | AI & Privacy Evaluation | OpenAI API (LLM), Pathway Framework (Real-Time RAG) |
-| Visualization / Dashboard | Streamlit / Matplotlib |
+| Visualization / Dashboard | Streamlit |
 | Machine Learning (Attacker Heuristics) | TF-IDF Vectorization, Clustering, Correlation Analysis |
 | Version Control & Config | Git, YAML, dotenv |
 
@@ -69,6 +69,7 @@ Team Name: Zyphers
 ## Made at:
 💻 Hack36 at MNNIT Allahabad  
 🏆 Sponsored by Pathway
+
 
 
 
