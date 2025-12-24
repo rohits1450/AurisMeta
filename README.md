@@ -17,7 +17,7 @@ It combines simulation, AI-driven attacker evaluation, and real-time reasoning u
 ---
 
 ## Presentation Link
-📊 [Final Presentation Slides — PPT Link Here]( [https://docs.google.com/presentation/d/1dj57DuT1AbdrfS3hUhMF7N0aH-jNyXa_/edit?usp=sharing&ouid=110708080494779471055&rtpof=true&sd=true](https://docs.google.com/presentation/d/1DA_hycMMCMNpPao0lFRxDEAniqjKxtZA/edit?usp=drive_link&ouid=109696431067809144100&rtpof=true&sd=true) )
+📊 [Final Presentation Slides — PPT Link Here](https://docs.google.com/presentation/d/1DA_hycMMCMNpPao0lFRxDEAniqjKxtZA/edit?usp=drive_link&ouid=109696431067809144100&rtpof=true&sd=true)
 
 ---
 
@@ -48,11 +48,11 @@ It combines simulation, AI-driven attacker evaluation, and real-time reasoning u
 
 ## Core Features
 
-- 🔐 Adaptive Privacy Layer — Adds batching, padding, dummy routing to break linkability patterns.  
-- 🧠 LLM-Based Adversary Simulation — AI-generated attack heuristics for robust privacy evaluation.  
-- ⚡ Pathway Integration — Real-time RAG index for live attack parameter updates using streaming data.  
-- 📊 Quantitative Metrics — Calculates linkability %, latency trade-offs, and visualization dashboards.  
-- 🧩 Modular Design — Easily extendable to new privacy techniques and attacker models.  
+-  Adaptive Privacy Layer — Adds batching, padding, dummy routing to break linkability patterns.  
+-  LLM-Based Adversary Simulation — AI-generated attack heuristics for robust privacy evaluation.  
+-  Pathway Integration — Real-time RAG index for live attack parameter updates using streaming data.  
+-  Quantitative Metrics — Calculates linkability %, latency trade-offs, and visualization dashboards.  
+-  Modular Design — Easily extendable to new privacy techniques and attacker models.  
 
 ---
 
@@ -67,8 +67,9 @@ Team Name: Zyphers
 ---
 
 ## Made at:
-💻 Hack36 at MNNIT Allahabad  
-🏆 Sponsored by Pathway
+💻 Hack36 9.0 Secure hackathon at MNNIT Allahabad  
+ Sponsored by Pathway
+
 
 
 
