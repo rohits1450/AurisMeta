@@ -66,9 +66,6 @@ Team Name: Zyphers
 
 ---
 
-## Made at:
-💻 Hack36 9.0 Secure hackathon at MNNIT Allahabad  
- Sponsored by Pathway
 
 
 
